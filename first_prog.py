@@ -4,4 +4,4 @@ class akhil:
   def akh(self):
     print "This is the first programm"
 a=akhil()
-akhil.akh()
+a.akh()
